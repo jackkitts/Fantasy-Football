@@ -29,10 +29,10 @@
     },
     "latestScoringPeriod": 8,
     "previousSeasons": [],
-    "standingsUpdateDate": 1793347473314,
+    "standingsUpdateDate": 1793431305974,
     "teamsJoined": 12,
     "transactionScoringPeriod": 8,
-    "waiverLastExecutionDate": 1793347473212,
+    "waiverLastExecutionDate": 1793431305388,
     "waiverProcessStatus": {
       "2026-08-25T07:04:57.384+00:00": 3,
       "2026-09-11T07:17:15.646+00:00": 1,
@@ -276,6 +276,43 @@
       "status": "EXECUTED",
       "teamId": 6,
       "type": "ROSTER"
+    },
+    {
+      "bidAmount": 0,
+      "executionType": "EXECUTE",
+      "id": "41e29054-a9f3-48ba-904e-0f471281e77e",
+      "isActingAsTeamOwner": false,
+      "isLeagueManager": false,
+      "isPending": false,
+      "items": [
+        {
+          "fromLineupSlotId": -1,
+          "fromTeamId": 0,
+          "isKeeper": false,
+          "overallPickNumber": 0,
+          "playerId": 4686468,
+          "toLineupSlotId": 20,
+          "toTeamId": 10,
+          "type": "ADD"
+        },
+        {
+          "fromLineupSlotId": 20,
+          "fromTeamId": 10,
+          "isKeeper": false,
+          "overallPickNumber": 0,
+          "playerId": 3917315,
+          "toLineupSlotId": -1,
+          "toTeamId": 0,
+          "type": "DROP"
+        }
+      ],
+      "memberId": "{C817A677-C94B-4A39-B7E8-975E670CCEBA}",
+      "proposedDate": 1793371957209,
+      "rating": 0,
+      "scoringPeriodId": 8,
+      "status": "EXECUTED",
+      "teamId": 10,
+      "type": "FREEAGENT"
     },
     {
       "bidAmount": 0,
