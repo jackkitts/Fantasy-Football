@@ -1292,10 +1292,10 @@
     "isWaiverOrderEdited": false,
     "latestScoringPeriod": 8,
     "previousSeasons": [],
-    "standingsUpdateDate": 1793431305974,
+    "standingsUpdateDate": 1793523238879,
     "teamsJoined": 12,
     "transactionScoringPeriod": 8,
-    "waiverLastExecutionDate": 1793431305388,
+    "waiverLastExecutionDate": 1793523238555,
     "waiverProcessStatus": {
       "2026-08-25T07:04:57.384+00:00": 3,
       "2026-09-11T07:17:15.646+00:00": 1,
@@ -1601,7 +1601,7 @@
     },
     {
       "abbrev": "FYR",
-      "currentProjectedRank": 8,
+      "currentProjectedRank": 7,
       "divisionId": 0,
       "draftDayProjectedRank": 1,
       "draftStrategy": {},
@@ -1822,7 +1822,7 @@
           "8": 3
         },
         "misc": 0,
-        "moveToActive": 45,
+        "moveToActive": 47,
         "moveToIR": 3,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -1880,7 +1880,7 @@
     },
     {
       "abbrev": "DDT",
-      "currentProjectedRank": 7,
+      "currentProjectedRank": 8,
       "divisionId": 0,
       "draftDayProjectedRank": 2,
       "draftStrategy": {},
@@ -2161,7 +2161,7 @@
     },
     {
       "abbrev": "CAm",
-      "currentProjectedRank": 4,
+      "currentProjectedRank": 5,
       "divisionId": 0,
       "draftDayProjectedRank": 10,
       "draftStrategy": {},
@@ -2243,7 +2243,7 @@
         },
         "misc": 0,
         "moveToActive": 23,
-        "moveToIR": 2,
+        "moveToIR": 3,
         "paid": 0.0,
         "teamCharges": 0.0,
         "trades": 2
@@ -2716,7 +2716,7 @@
     },
     {
       "abbrev": "YB",
-      "currentProjectedRank": 5,
+      "currentProjectedRank": 4,
       "divisionId": 0,
       "draftDayProjectedRank": 12,
       "draftStrategy": {},
