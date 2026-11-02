@@ -1292,10 +1292,10 @@
     "isWaiverOrderEdited": false,
     "latestScoringPeriod": 8,
     "previousSeasons": [],
-    "standingsUpdateDate": 1793523238879,
+    "standingsUpdateDate": 1793608136224,
     "teamsJoined": 12,
     "transactionScoringPeriod": 8,
-    "waiverLastExecutionDate": 1793523238555,
+    "waiverLastExecutionDate": 1793608135928,
     "waiverProcessStatus": {
       "2026-08-25T07:04:57.384+00:00": 3,
       "2026-09-11T07:17:15.646+00:00": 1,
@@ -1320,7 +1320,7 @@
   "teams": [
     {
       "abbrev": "KIDS",
-      "currentProjectedRank": 10,
+      "currentProjectedRank": 9,
       "divisionId": 0,
       "draftDayProjectedRank": 7,
       "draftStrategy": {},
@@ -1532,18 +1532,19 @@
       "tradeBlock": {},
       "transactionCounter": {
         "acquisitionBudgetSpent": 0,
-        "acquisitions": 6,
-        "drops": 7,
+        "acquisitions": 7,
+        "drops": 8,
         "matchupAcquisitionTotals": {
           "2": 1,
           "3": 1,
           "4": 1,
           "5": 1,
           "6": 1,
-          "7": 1
+          "7": 1,
+          "8": 1
         },
         "misc": 0,
-        "moveToActive": 25,
+        "moveToActive": 26,
         "moveToIR": 2,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -1601,7 +1602,7 @@
     },
     {
       "abbrev": "FYR",
-      "currentProjectedRank": 7,
+      "currentProjectedRank": 8,
       "divisionId": 0,
       "draftDayProjectedRank": 1,
       "draftStrategy": {},
@@ -1683,7 +1684,7 @@
           "8": 3
         },
         "misc": 0,
-        "moveToActive": 30,
+        "moveToActive": 31,
         "moveToIR": 1,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -1880,7 +1881,7 @@
     },
     {
       "abbrev": "DDT",
-      "currentProjectedRank": 8,
+      "currentProjectedRank": 7,
       "divisionId": 0,
       "draftDayProjectedRank": 2,
       "draftStrategy": {},
@@ -2016,7 +2017,7 @@
     },
     {
       "abbrev": "JACK",
-      "currentProjectedRank": 6,
+      "currentProjectedRank": 5,
       "divisionId": 0,
       "draftDayProjectedRank": 3,
       "draftStrategy": {},
@@ -2161,7 +2162,7 @@
     },
     {
       "abbrev": "CAm",
-      "currentProjectedRank": 5,
+      "currentProjectedRank": 4,
       "divisionId": 0,
       "draftDayProjectedRank": 10,
       "draftStrategy": {},
@@ -2716,7 +2717,7 @@
     },
     {
       "abbrev": "YB",
-      "currentProjectedRank": 4,
+      "currentProjectedRank": 6,
       "divisionId": 0,
       "draftDayProjectedRank": 12,
       "draftStrategy": {},
@@ -2857,7 +2858,7 @@
     },
     {
       "abbrev": "WWW",
-      "currentProjectedRank": 9,
+      "currentProjectedRank": 10,
       "divisionId": 0,
       "draftDayProjectedRank": 5,
       "draftStrategy": {},
@@ -2940,7 +2941,7 @@
           "7": 1
         },
         "misc": 0,
-        "moveToActive": 38,
+        "moveToActive": 39,
         "moveToIR": 1,
         "paid": 0.0,
         "teamCharges": 0.0,
