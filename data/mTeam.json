@@ -1292,10 +1292,10 @@
     "isWaiverOrderEdited": false,
     "latestScoringPeriod": 9,
     "previousSeasons": [],
-    "standingsUpdateDate": 1793954870368,
+    "standingsUpdateDate": 1794040920573,
     "teamsJoined": 12,
     "transactionScoringPeriod": 9,
-    "waiverLastExecutionDate": 1793954870231,
+    "waiverLastExecutionDate": 1794040920387,
     "waiverProcessStatus": {
       "2026-08-25T07:04:57.384+00:00": 3,
       "2026-09-11T07:17:15.646+00:00": 1,
@@ -1406,11 +1406,11 @@
           "9": 2
         },
         "misc": 0,
-        "moveToActive": 42,
+        "moveToActive": 47,
         "moveToIR": 2,
         "paid": 0.0,
         "teamCharges": 0.0,
-        "trades": 6
+        "trades": 8
       },
       "valuesByStat": {
         "128": 0.0,
@@ -1463,7 +1463,7 @@
       "waiverRank": 11
     },
     {
-      "abbrev": "TTT",
+      "abbrev": "KIRK",
       "currentProjectedRank": 12,
       "divisionId": 0,
       "draftDayProjectedRank": 11,
@@ -1473,9 +1473,9 @@
       "id": 2,
       "isActive": false,
       "isTransactionLocked": false,
-      "logo": "https://mystique-api.fantasy.espn.com/apis/v1/domains/lm/images/4bac2ad0-a4bb-11f1-8623-4f919cfbc4d9",
-      "logoType": "CUSTOM_UPLOAD",
-      "name": "Breaking Ladd",
+      "logo": "https://g.espncdn.com/lm-static/logo-packs/ffl/1stStringAllStars-SportsManias-QB/cousins-01.svg",
+      "logoType": "VECTOR",
+      "name": "Kirko's Killers",
       "owners": [
         "{0684D5AA-D991-42C6-A119-49412AC392A3}"
       ],
@@ -1548,7 +1548,7 @@
           "9": 4
         },
         "misc": 0,
-        "moveToActive": 53,
+        "moveToActive": 56,
         "moveToIR": 3,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -1818,19 +1818,19 @@
       "tradeBlock": {},
       "transactionCounter": {
         "acquisitionBudgetSpent": 0,
-        "acquisitions": 11,
-        "drops": 12,
+        "acquisitions": 13,
+        "drops": 14,
         "matchupAcquisitionTotals": {
           "3": 2,
           "4": 1,
           "6": 2,
           "7": 1,
           "8": 3,
-          "9": 2
+          "9": 4
         },
         "misc": 0,
-        "moveToActive": 51,
-        "moveToIR": 3,
+        "moveToActive": 57,
+        "moveToIR": 4,
         "paid": 0.0,
         "teamCharges": 0.0,
         "trades": 3
@@ -1887,7 +1887,7 @@
     },
     {
       "abbrev": "DDT",
-      "currentProjectedRank": 5,
+      "currentProjectedRank": 6,
       "divisionId": 0,
       "draftDayProjectedRank": 2,
       "draftStrategy": {},
@@ -1970,7 +1970,7 @@
         "moveToIR": 1,
         "paid": 0.0,
         "teamCharges": 0.0,
-        "trades": 2
+        "trades": 3
       },
       "valuesByStat": {
         "128": 0.0,
@@ -2099,8 +2099,8 @@
       },
       "transactionCounter": {
         "acquisitionBudgetSpent": 0,
-        "acquisitions": 43,
-        "drops": 41,
+        "acquisitions": 44,
+        "drops": 43,
         "matchupAcquisitionTotals": {
           "2": 2,
           "3": 5,
@@ -2109,14 +2109,14 @@
           "6": 7,
           "7": 9,
           "8": 3,
-          "9": 8
+          "9": 9
         },
         "misc": 0,
-        "moveToActive": 57,
+        "moveToActive": 62,
         "moveToIR": 2,
         "paid": 0.0,
         "teamCharges": 0.0,
-        "trades": 11
+        "trades": 15
       },
       "valuesByStat": {
         "128": 0.0,
@@ -2310,7 +2310,7 @@
     },
     {
       "abbrev": "LLT",
-      "currentProjectedRank": 6,
+      "currentProjectedRank": 7,
       "divisionId": 0,
       "draftDayProjectedRank": 9,
       "draftStrategy": {},
@@ -2389,8 +2389,8 @@
           "7": 1
         },
         "misc": 0,
-        "moveToActive": 13,
-        "moveToIR": 2,
+        "moveToActive": 15,
+        "moveToIR": 3,
         "paid": 0.0,
         "teamCharges": 0.0,
         "trades": 0
@@ -2527,11 +2527,11 @@
           "6": 1
         },
         "misc": 0,
-        "moveToActive": 24,
+        "moveToActive": 27,
         "moveToIR": 1,
         "paid": 0.0,
         "teamCharges": 0.0,
-        "trades": 1
+        "trades": 2
       },
       "valuesByStat": {
         "128": 0.0,
@@ -2673,7 +2673,7 @@
         "moveToIR": 1,
         "paid": 0.0,
         "teamCharges": 0.0,
-        "trades": 0
+        "trades": 1
       },
       "valuesByStat": {
         "128": 0.0,
@@ -2727,7 +2727,7 @@
     },
     {
       "abbrev": "YB",
-      "currentProjectedRank": 7,
+      "currentProjectedRank": 5,
       "divisionId": 0,
       "draftDayProjectedRank": 12,
       "draftStrategy": {},
@@ -2811,11 +2811,11 @@
           "9": 3
         },
         "misc": 0,
-        "moveToActive": 33,
+        "moveToActive": 36,
         "moveToIR": 3,
         "paid": 0.0,
         "teamCharges": 0.0,
-        "trades": 6
+        "trades": 7
       },
       "valuesByStat": {
         "128": 0.0,
@@ -2952,7 +2952,7 @@
           "7": 1
         },
         "misc": 0,
-        "moveToActive": 42,
+        "moveToActive": 43,
         "moveToIR": 1,
         "paid": 0.0,
         "teamCharges": 0.0,
