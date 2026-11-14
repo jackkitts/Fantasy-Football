@@ -1292,10 +1292,10 @@
     "isWaiverOrderEdited": false,
     "latestScoringPeriod": 10,
     "previousSeasons": [],
-    "standingsUpdateDate": 1794560882059,
+    "standingsUpdateDate": 1794645559760,
     "teamsJoined": 12,
     "transactionScoringPeriod": 10,
-    "waiverLastExecutionDate": 1794560881595,
+    "waiverLastExecutionDate": 1794645559671,
     "waiverProcessStatus": {
       "2026-08-25T07:04:57.384+00:00": 3,
       "2026-09-11T07:17:15.646+00:00": 1,
@@ -1409,7 +1409,7 @@
           "10": 6
         },
         "misc": 0,
-        "moveToActive": 52,
+        "moveToActive": 53,
         "moveToIR": 2,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -1552,7 +1552,7 @@
           "10": 2
         },
         "misc": 0,
-        "moveToActive": 69,
+        "moveToActive": 70,
         "moveToIR": 3,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -2536,7 +2536,7 @@
           "6": 1
         },
         "misc": 0,
-        "moveToActive": 34,
+        "moveToActive": 35,
         "moveToIR": 1,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -2679,7 +2679,7 @@
           "10": 2
         },
         "misc": 0,
-        "moveToActive": 30,
+        "moveToActive": 31,
         "moveToIR": 2,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -2822,7 +2822,7 @@
           "10": 4
         },
         "misc": 0,
-        "moveToActive": 41,
+        "moveToActive": 42,
         "moveToIR": 3,
         "paid": 0.0,
         "teamCharges": 0.0,
