@@ -1292,10 +1292,10 @@
     "isWaiverOrderEdited": false,
     "latestScoringPeriod": 10,
     "previousSeasons": [],
-    "standingsUpdateDate": 1794733578112,
+    "standingsUpdateDate": 1794820456342,
     "teamsJoined": 12,
     "transactionScoringPeriod": 10,
-    "waiverLastExecutionDate": 1794733577887,
+    "waiverLastExecutionDate": 1794820456249,
     "waiverProcessStatus": {
       "2026-08-25T07:04:57.384+00:00": 3,
       "2026-09-11T07:17:15.646+00:00": 1,
@@ -1335,9 +1335,67 @@
       "isTransactionLocked": false,
       "logo": "https://g.espncdn.com/lm-static/logo-packs/ffl/1stStringAllStars-SportsManias-QB/maye-01.svg",
       "logoType": "VECTOR",
-      "name": "Tank for Jeremiah Smith",
+      "name": "For Drake Maye 🫡",
       "owners": [
         "{73EEE31D-8E0E-47EB-A6A8-573988E06D56}"
+      ],
+      "pendingTransactions": [
+        {
+          "acceptedDate": 1794855203655,
+          "bidAmount": 0,
+          "executionType": "EXECUTE",
+          "expirationDate": 1795027878500,
+          "id": "a0f00dd8-3018-49dd-91e3-49a0440e8028",
+          "isActingAsTeamOwner": false,
+          "isLeagueManager": false,
+          "isPending": true,
+          "items": [
+            {
+              "fromLineupSlotId": 20,
+              "fromTeamId": 1,
+              "isKeeper": false,
+              "overallPickNumber": 0,
+              "playerId": 4697815,
+              "toLineupSlotId": -1,
+              "toTeamId": 5,
+              "type": "TRADE"
+            },
+            {
+              "fromLineupSlotId": 20,
+              "fromTeamId": 1,
+              "isKeeper": false,
+              "overallPickNumber": 0,
+              "playerId": 4688380,
+              "toLineupSlotId": -1,
+              "toTeamId": 5,
+              "type": "TRADE"
+            },
+            {
+              "fromLineupSlotId": 20,
+              "fromTeamId": 5,
+              "isKeeper": false,
+              "overallPickNumber": 0,
+              "playerId": 4431611,
+              "toLineupSlotId": -1,
+              "toTeamId": 1,
+              "type": "TRADE"
+            }
+          ],
+          "memberId": "{73EEE31D-8E0E-47EB-A6A8-573988E06D56}",
+          "processDate": 1794941603655,
+          "proposedDate": 1794855078463,
+          "rating": 0,
+          "scoringPeriodId": 10,
+          "skipTransactionCounters": false,
+          "status": "PENDING",
+          "subOrder": 0,
+          "teamActions": {
+            "1": "ACCEPTED",
+            "5": "ACCEPTED"
+          },
+          "teamId": 1,
+          "type": "TRADE_ACCEPT"
+        }
       ],
       "playoffSeed": 7,
       "points": 935.6999999999998,
@@ -1413,7 +1471,7 @@
         "moveToIR": 2,
         "paid": 0.0,
         "teamCharges": 0.0,
-        "trades": 10
+        "trades": 11
       },
       "valuesByStat": {
         "128": 0.0,
@@ -1908,6 +1966,64 @@
       "owners": [
         "{CB6F916A-C8D1-4A90-BB76-2FC7CBDF9BC6}"
       ],
+      "pendingTransactions": [
+        {
+          "acceptedDate": 1794855203655,
+          "bidAmount": 0,
+          "executionType": "EXECUTE",
+          "expirationDate": 1795027878500,
+          "id": "a0f00dd8-3018-49dd-91e3-49a0440e8028",
+          "isActingAsTeamOwner": false,
+          "isLeagueManager": false,
+          "isPending": true,
+          "items": [
+            {
+              "fromLineupSlotId": 20,
+              "fromTeamId": 1,
+              "isKeeper": false,
+              "overallPickNumber": 0,
+              "playerId": 4697815,
+              "toLineupSlotId": -1,
+              "toTeamId": 5,
+              "type": "TRADE"
+            },
+            {
+              "fromLineupSlotId": 20,
+              "fromTeamId": 1,
+              "isKeeper": false,
+              "overallPickNumber": 0,
+              "playerId": 4688380,
+              "toLineupSlotId": -1,
+              "toTeamId": 5,
+              "type": "TRADE"
+            },
+            {
+              "fromLineupSlotId": 20,
+              "fromTeamId": 5,
+              "isKeeper": false,
+              "overallPickNumber": 0,
+              "playerId": 4431611,
+              "toLineupSlotId": -1,
+              "toTeamId": 1,
+              "type": "TRADE"
+            }
+          ],
+          "memberId": "{73EEE31D-8E0E-47EB-A6A8-573988E06D56}",
+          "processDate": 1794941603655,
+          "proposedDate": 1794855078463,
+          "rating": 0,
+          "scoringPeriodId": 10,
+          "skipTransactionCounters": false,
+          "status": "PENDING",
+          "subOrder": 0,
+          "teamActions": {
+            "1": "ACCEPTED",
+            "5": "ACCEPTED"
+          },
+          "teamId": 1,
+          "type": "TRADE_ACCEPT"
+        }
+      ],
       "playoffSeed": 5,
       "points": 1059.22,
       "pointsAdjusted": 0.0,
@@ -1977,7 +2093,7 @@
         "moveToIR": 1,
         "paid": 0.0,
         "teamCharges": 0.0,
-        "trades": 3
+        "trades": 4
       },
       "valuesByStat": {
         "128": 0.0,
@@ -2261,7 +2377,7 @@
           "10": 1
         },
         "misc": 0,
-        "moveToActive": 35,
+        "moveToActive": 36,
         "moveToIR": 3,
         "paid": 0.0,
         "teamCharges": 0.0,

@@ -29,10 +29,10 @@
     },
     "latestScoringPeriod": 10,
     "previousSeasons": [],
-    "standingsUpdateDate": 1794733578112,
+    "standingsUpdateDate": 1794820456342,
     "teamsJoined": 12,
     "transactionScoringPeriod": 10,
-    "waiverLastExecutionDate": 1794733577887,
+    "waiverLastExecutionDate": 1794820456249,
     "waiverProcessStatus": {
       "2026-08-25T07:04:57.384+00:00": 3,
       "2026-09-11T07:17:15.646+00:00": 1,
@@ -3458,6 +3458,43 @@
     },
     {
       "bidAmount": 0,
+      "executionType": "EXECUTE",
+      "id": "29e6459a-2d8b-46ed-8a93-b6b3f6f9478d",
+      "isActingAsTeamOwner": false,
+      "isLeagueManager": false,
+      "isPending": false,
+      "items": [
+        {
+          "fromLineupSlotId": 4,
+          "fromTeamId": 0,
+          "isKeeper": false,
+          "overallPickNumber": 0,
+          "playerId": 15818,
+          "toLineupSlotId": 20,
+          "toTeamId": 0,
+          "type": "LINEUP"
+        },
+        {
+          "fromLineupSlotId": 20,
+          "fromTeamId": 0,
+          "isKeeper": false,
+          "overallPickNumber": 0,
+          "playerId": 4366031,
+          "toLineupSlotId": 4,
+          "toTeamId": 0,
+          "type": "LINEUP"
+        }
+      ],
+      "memberId": "{CAFA2735-C15C-4346-A211-16BE988C29A6}",
+      "proposedDate": 1794754240377,
+      "rating": 0,
+      "scoringPeriodId": 10,
+      "status": "EXECUTED",
+      "teamId": 7,
+      "type": "ROSTER"
+    },
+    {
+      "bidAmount": 0,
       "executionType": "PROCESS",
       "id": "c9bbe4f3-1428-49c7-b241-edc05cfc40e8",
       "isActingAsTeamOwner": false,
@@ -3628,6 +3665,33 @@
       "status": "EXECUTED",
       "teamId": 7,
       "type": "FREEAGENT"
+    },
+    {
+      "bidAmount": 0,
+      "executionType": "EXECUTE",
+      "id": "81611760-efe7-476c-beb6-4ad31232a686",
+      "isActingAsTeamOwner": false,
+      "isLeagueManager": false,
+      "isPending": false,
+      "items": [
+        {
+          "fromLineupSlotId": 20,
+          "fromTeamId": 5,
+          "isKeeper": false,
+          "overallPickNumber": 0,
+          "playerId": 3116165,
+          "toLineupSlotId": -1,
+          "toTeamId": 0,
+          "type": "DROP"
+        }
+      ],
+      "memberId": "{CB6F916A-C8D1-4A90-BB76-2FC7CBDF9BC6}",
+      "proposedDate": 1794855203622,
+      "rating": 0,
+      "relatedTransactionId": "a0f00dd8-3018-49dd-91e3-49a0440e8028",
+      "scoringPeriodId": 10,
+      "teamId": 5,
+      "type": "TRADE_ACCEPT"
     },
     {
       "bidAmount": 0,
