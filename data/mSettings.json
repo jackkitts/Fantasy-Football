@@ -665,10 +665,10 @@
     "isWaiverOrderEdited": false,
     "latestScoringPeriod": 11,
     "previousSeasons": [],
-    "standingsUpdateDate": 1794905228423,
+    "standingsUpdateDate": 1794989420800,
     "teamsJoined": 12,
     "transactionScoringPeriod": 11,
-    "waiverLastExecutionDate": 1794905228178,
+    "waiverLastExecutionDate": 1794989420642,
     "waiverProcessStatus": {
       "2026-08-25T07:04:57.384+00:00": 3,
       "2026-09-11T07:17:15.646+00:00": 1,
@@ -691,7 +691,8 @@
       "2026-11-04T09:04:37.259+00:00": 10,
       "2026-11-05T08:38:41.029+00:00": 2,
       "2026-11-11T08:35:47.747+00:00": 5,
-      "2026-11-13T09:08:01.595+00:00": 1
+      "2026-11-13T09:08:01.595+00:00": 1,
+      "2026-11-18T08:10:20.642+00:00": 7
     }
   }
 }
