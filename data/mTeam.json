@@ -1292,10 +1292,10 @@
     "isWaiverOrderEdited": false,
     "latestScoringPeriod": 11,
     "previousSeasons": [],
-    "standingsUpdateDate": 1795251718600,
+    "standingsUpdateDate": 1795334792834,
     "teamsJoined": 12,
     "transactionScoringPeriod": 11,
-    "waiverLastExecutionDate": 1795251718423,
+    "waiverLastExecutionDate": 1795334792744,
     "waiverProcessStatus": {
       "2026-08-25T07:04:57.384+00:00": 3,
       "2026-09-11T07:17:15.646+00:00": 1,
@@ -1555,7 +1555,7 @@
           "10": 2
         },
         "misc": 0,
-        "moveToActive": 71,
+        "moveToActive": 75,
         "moveToIR": 3,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -1839,7 +1839,7 @@
           "10": 2
         },
         "misc": 0,
-        "moveToActive": 75,
+        "moveToActive": 76,
         "moveToIR": 4,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -2174,7 +2174,7 @@
           "11": 3
         },
         "misc": 0,
-        "moveToActive": 78,
+        "moveToActive": 79,
         "moveToIR": 2,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -2373,7 +2373,7 @@
     },
     {
       "abbrev": "LLT",
-      "currentProjectedRank": 6,
+      "currentProjectedRank": 7,
       "divisionId": 0,
       "draftDayProjectedRank": 9,
       "draftStrategy": {},
@@ -2452,7 +2452,7 @@
           "7": 1
         },
         "misc": 0,
-        "moveToActive": 21,
+        "moveToActive": 24,
         "moveToIR": 4,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -2648,7 +2648,7 @@
     },
     {
       "abbrev": "RT",
-      "currentProjectedRank": 7,
+      "currentProjectedRank": 6,
       "divisionId": 0,
       "draftDayProjectedRank": 4,
       "draftStrategy": {},
