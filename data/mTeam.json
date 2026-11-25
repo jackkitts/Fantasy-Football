@@ -1292,10 +1292,10 @@
     "isWaiverOrderEdited": false,
     "latestScoringPeriod": 12,
     "previousSeasons": [],
-    "standingsUpdateDate": 1795511278659,
+    "standingsUpdateDate": 1795596093728,
     "teamsJoined": 12,
     "transactionScoringPeriod": 12,
-    "waiverLastExecutionDate": 1795511278354,
+    "waiverLastExecutionDate": 1795596093411,
     "waiverProcessStatus": {
       "2026-08-25T07:04:57.384+00:00": 3,
       "2026-09-11T07:17:15.646+00:00": 1,
@@ -1320,7 +1320,8 @@
       "2026-11-11T08:35:47.747+00:00": 5,
       "2026-11-13T09:08:01.595+00:00": 1,
       "2026-11-18T08:10:20.642+00:00": 7,
-      "2026-11-19T08:00:54.621+00:00": 1
+      "2026-11-19T08:00:54.621+00:00": 1,
+      "2026-11-25T08:41:33.411+00:00": 6
     }
   },
   "teams": [
@@ -1398,7 +1399,7 @@
       "transactionCounter": {
         "acquisitionBudgetSpent": 0,
         "acquisitions": 33,
-        "drops": 31,
+        "drops": 32,
         "matchupAcquisitionTotals": {
           "2": 2,
           "3": 2,
@@ -1412,11 +1413,11 @@
           "11": 3
         },
         "misc": 0,
-        "moveToActive": 59,
+        "moveToActive": 60,
         "moveToIR": 2,
         "paid": 0.0,
         "teamCharges": 0.0,
-        "trades": 11
+        "trades": 12
       },
       "valuesByStat": {
         "128": 0.0,
@@ -1752,7 +1753,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 7
+      "waiverRank": 6
     },
     {
       "abbrev": "LLT",
@@ -1897,7 +1898,7 @@
     },
     {
       "abbrev": "DDT",
-      "currentProjectedRank": 4,
+      "currentProjectedRank": 3,
       "divisionId": 0,
       "draftDayProjectedRank": 2,
       "draftStrategy": {},
@@ -1968,21 +1969,22 @@
       "tradeBlock": {},
       "transactionCounter": {
         "acquisitionBudgetSpent": 0,
-        "acquisitions": 5,
-        "drops": 5,
+        "acquisitions": 7,
+        "drops": 7,
         "matchupAcquisitionTotals": {
           "2": 1,
           "7": 1,
           "9": 1,
           "10": 1,
-          "11": 1
+          "11": 1,
+          "12": 2
         },
         "misc": 0,
-        "moveToActive": 24,
+        "moveToActive": 25,
         "moveToIR": 1,
         "paid": 0.0,
         "teamCharges": 0.0,
-        "trades": 4
+        "trades": 5
       },
       "valuesByStat": {
         "128": 0.0,
@@ -2032,7 +2034,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 9
+      "waiverRank": 12
     },
     {
       "abbrev": "JACK",
@@ -2111,7 +2113,7 @@
       },
       "transactionCounter": {
         "acquisitionBudgetSpent": 0,
-        "acquisitions": 52,
+        "acquisitions": 53,
         "drops": 52,
         "matchupAcquisitionTotals": {
           "2": 2,
@@ -2123,10 +2125,11 @@
           "8": 3,
           "9": 9,
           "10": 5,
-          "11": 3
+          "11": 3,
+          "12": 1
         },
         "misc": 0,
-        "moveToActive": 86,
+        "moveToActive": 87,
         "moveToIR": 2,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -2180,11 +2183,11 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 11
+      "waiverRank": 10
     },
     {
       "abbrev": "CAm",
-      "currentProjectedRank": 3,
+      "currentProjectedRank": 4,
       "divisionId": 0,
       "draftDayProjectedRank": 10,
       "draftStrategy": {},
@@ -2321,7 +2324,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 10
+      "waiverRank": 7
     },
     {
       "abbrev": "LLT",
@@ -2542,7 +2545,7 @@
           "6": 1
         },
         "misc": 0,
-        "moveToActive": 37,
+        "moveToActive": 39,
         "moveToIR": 1,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -2596,7 +2599,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 12
+      "waiverRank": 8
     },
     {
       "abbrev": "RT",
@@ -2671,8 +2674,8 @@
       "tradeBlock": {},
       "transactionCounter": {
         "acquisitionBudgetSpent": 0,
-        "acquisitions": 21,
-        "drops": 21,
+        "acquisitions": 23,
+        "drops": 23,
         "matchupAcquisitionTotals": {
           "1": 1,
           "3": 1,
@@ -2683,10 +2686,11 @@
           "8": 1,
           "9": 2,
           "10": 2,
-          "11": 5
+          "11": 5,
+          "12": 2
         },
         "misc": 0,
-        "moveToActive": 41,
+        "moveToActive": 45,
         "moveToIR": 3,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -2740,7 +2744,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 8
+      "waiverRank": 11
     },
     {
       "abbrev": "PW",
@@ -2815,8 +2819,8 @@
       "tradeBlock": {},
       "transactionCounter": {
         "acquisitionBudgetSpent": 0,
-        "acquisitions": 24,
-        "drops": 21,
+        "acquisitions": 25,
+        "drops": 22,
         "matchupAcquisitionTotals": {
           "2": 2,
           "3": 1,
@@ -2827,10 +2831,11 @@
           "8": 1,
           "9": 3,
           "10": 4,
-          "11": 1
+          "11": 1,
+          "12": 1
         },
         "misc": 0,
-        "moveToActive": 46,
+        "moveToActive": 48,
         "moveToIR": 3,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -2884,7 +2889,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 6
+      "waiverRank": 9
     },
     {
       "abbrev": "WWW",
@@ -2972,7 +2977,7 @@
           "11": 1
         },
         "misc": 0,
-        "moveToActive": 54,
+        "moveToActive": 55,
         "moveToIR": 1,
         "paid": 0.0,
         "teamCharges": 0.0,
