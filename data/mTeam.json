@@ -1292,10 +1292,10 @@
     "isWaiverOrderEdited": false,
     "latestScoringPeriod": 12,
     "previousSeasons": [],
-    "standingsUpdateDate": 1795768254071,
+    "standingsUpdateDate": 1795857392261,
     "teamsJoined": 12,
     "transactionScoringPeriod": 12,
-    "waiverLastExecutionDate": 1795768253963,
+    "waiverLastExecutionDate": 1795857391755,
     "waiverProcessStatus": {
       "2026-08-25T07:04:57.384+00:00": 3,
       "2026-09-11T07:17:15.646+00:00": 1,
@@ -1901,7 +1901,7 @@
     },
     {
       "abbrev": "DDT",
-      "currentProjectedRank": 3,
+      "currentProjectedRank": 4,
       "divisionId": 0,
       "draftDayProjectedRank": 2,
       "draftStrategy": {},
@@ -2132,7 +2132,7 @@
           "12": 2
         },
         "misc": 0,
-        "moveToActive": 88,
+        "moveToActive": 90,
         "moveToIR": 2,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -2190,7 +2190,7 @@
     },
     {
       "abbrev": "CAm",
-      "currentProjectedRank": 4,
+      "currentProjectedRank": 3,
       "divisionId": 0,
       "draftDayProjectedRank": 10,
       "draftStrategy": {},
@@ -2838,7 +2838,7 @@
           "12": 1
         },
         "misc": 0,
-        "moveToActive": 50,
+        "moveToActive": 51,
         "moveToIR": 3,
         "paid": 0.0,
         "teamCharges": 0.0,
